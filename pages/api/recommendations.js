@@ -2,35 +2,39 @@
 const recommendationCard = [
   {
     id: 0,
-    name: 'hussen ahmed',
-    image: "images/shahmir.jfif",
-    designation: 'React JS | NEXT JS | Node | GraphQL',
-    view: "Hey everyone! I wanted to take a moment to recommend Osama Javaid for any React.js opportunities. I had the pleasure of working with him on multiple projects where he showcased a strong understanding of React.js and Next.js concepts and delivered high-quality code. He consistently demonstrated a willingness to learn and grow, and his enthusiasm for tackling new challenges was contagious. Osama is a reliable and dedicated team member who would be a great asset to any React.js team. Highly recommended! 👍! 🌟",
-    linkednURL: ""
+    name: 'Endris',
+    image: "images/shahmr.jfif",
+    designation: 'Head of electrical and computer engineering department at Samara University',
+    view: "I am pleased to recommend Dejene Tesfaye, who developed an impressive 'Advanced Irrigation System' for the Samara University plant. As the head of the Electrical and Computer Engineering department, I have seen Dejene's exceptional technical skills and innovative approach firsthand. His dedication and problem-solving abilities were instrumental in the project's success, significantly improving water usage efficiency. Dejene is a talented engineer with a bright future ahead.👍! 🌟",
+    linkednURL: "",
+    contact: "Contact: +251 91 123 4567"
   },
   {
     id: 1,
-    name: 'zemzem husen',
-    image: "images/sikandar.jpeg",
-    designation: 'Data Scientist | Machine Learning Engineer | Python Developer',
-    view: "I had the privilege of working alongside Osama on multiple university projects, and I must say, his talent and work ethic truly stood out. Recently, we were both part of the dynamic team at JMM Technologies, where Osama's professionalism and attention to detail shone brightly. I wholeheartedly endorse Osama for any opportunity that calls for a highly skilled and dedicated individual.",
-    linkednURL: "https://www.linkedin.com/in/sikandar-hayat-381407179/"
+    name: 'Zemzem husen',
+    image: "images/siandar.jpeg",
+    designation: 'Teacher at Samara University',
+    view: "I am delighted to recommend Dejene Tesfaye, who has demonstrated exceptional skills and dedication in both his semester project titled 'SU Property Registration System' and his final project 'Advanced Plant Irrigation System' under my advisorship. Dejene's innovative approach and technical expertise were evident in both projects. His ability to tackle complex challenges and deliver high-quality results is truly commendable. I am confident that he will excel in his future endeavors.",
+    linkednURL: "",
+    contact: "Contact: +251 92 010 0142"
   },
   {
     id: 2,
-    name: 'rihana ahmed',
-    image: "images/nasir.jpg",
-    designation: 'MERN | JavaScript | Tailwind | Sass | Bootstrap',
-    view: "I wholeheartedly recommend Osama as a talented React frontend developer with an incredible flair for UI/UX design. His proficiency in Node.js further enhances his capabilities, allowing him to build robust and scalable applications. Osama's attention to detail, problem-solving skills, and dedication to delivering exceptional results make him a valuable addition to any development team.",
-    linkednURL: "https://www.linkedin.com/in/nasirkhan22/"
+    name: 'Rihana',
+    image: "images/nair.jpg",
+    designation: 'IT Support Specialist at Oromia Broadcasting Network',
+    view: "I am pleased to recommend Dejene Tesfaye, who demonstrated exceptional skills and dedication while developing the 'Outdoor Gate System' project for Oromia Broadcasting Network (OBN). As an IT Support Specialist at OBN, I had the privilege of advising Dejene throughout this project. His innovative approach and technical expertise were evident as he tackled complex challenges and delivered high-quality results. Dejene's commitment and problem-solving abilities make him a valuable asset, and I am confident he will excel in his future endeavors.",
+    linkednURL: "",
+    contact: "Contact: +251 91 025 6470"
   },
   {
     id: 3,
     name: 'Estifanos',
-    image: "images/muhammad.jpeg",
-    designation: 'MERN Stack Developer at Productbox',
-    view: "I highly recommend Osama Javed for web frontend development positions. Their expertise in ReactJS and Next.js, combined with their professionalism and dedication, make them an invaluable asset to any team.",
-    linkednURL: "https://www.linkedin.com/in/muhammadullahafridi/"
+    image: "images/muhmmad.jpeg",
+    designation: 'senior IT support specialist at Commercial Bank of Ethiopia',
+    view: "I am pleased to recommend Dejene Tesfaye, who has shown remarkable dedication and skill in understanding IT support and networking. As a Senior IT Support specialist at the Commercial Bank of Ethiopia (CBE), I had the opportunity to help Dejene gain practical knowledge in these areas. His eagerness to learn and ability to grasp complex concepts quickly were truly impressive. Dejene is a talented individual with a bright future in the field of IT.",
+    linkednURL: "",
+    contact: "Contact: +251 91 352 6783"
   },
 ]
 export default function handler(req, res) {
