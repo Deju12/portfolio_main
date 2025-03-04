@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/deju12/main_portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/deju12/main_portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/deju12/main_portfolio?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/deju12/portfolio_main)
+  ![GitHub stars](https://img.shields.io/github/stars/deju12/portfolio_main?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/deju12/portfolio_main?style=social)
   [
   <br />
   <br />
@@ -36,13 +36,13 @@ To run **portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/deju12/main_portfolio.git
+sudo git clone https://github.com/deju12/portfolio_main.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/deju12/main_portfolio.git
+git clone https://github.com/deju12/portfolio_main.git
 ```
 
 ### Contact
